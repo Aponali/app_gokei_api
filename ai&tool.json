@@ -1,0 +1,299 @@
+[
+    {
+      "aitoolname": "Google",
+      "aitoolimage": "https://i.postimg.cc/cH7NSMFy/google-min.png",
+      "aitoolurl": "https://google.com/"
+    },
+    {
+      "aitoolname": "Youtube",
+      "aitoolimage": "https://i.postimg.cc/pTnKXC7T/youtube-min.png",
+      "aitoolurl": "https://www.youtube.com/"
+    },
+  
+    {
+      "aitoolname": "Instagram",
+      "aitoolimage": "https://i.postimg.cc/SKqrP6Yz/instragram-min.png",
+      "aitoolurl": "https://www.instagram.com/?hl=en"
+    },
+    {
+      "aitoolname": "Twitter",
+      "aitoolimage": "https://i.postimg.cc/ydfhb20D/twiter.png",
+      "aitoolurl": "https://twitter.com/"
+    },
+    {
+      "aitoolname": "Discord",
+      "aitoolimage": "https://i.postimg.cc/t4GGvcqR/discord-min.png",
+      "aitoolurl": "https://www.discord.com/"
+    },
+    {
+      "aitoolname": "Reddit",
+      "aitoolimage": "https://i.postimg.cc/BZcMxw8f/reddit-min.png",
+      "aitoolurl": "https://www.reddit.com/"
+    },
+    {
+      "aitoolname": "Telegram",
+      "aitoolimage": "https://i.postimg.cc/XqSN4Yfm/telegram.png",
+      "aitoolurl": "https://web.telegram.org/"
+    },
+    {
+      "aitoolname": "Spotify",
+      "aitoolimage": "https://i.postimg.cc/Dm3hkpTT/sptify-min.png",
+      "aitoolurl": "https://open.spotify.com/"
+    },
+    {
+      "aitoolname": "Netflix",
+      "aitoolimage": "https://i.postimg.cc/HLq7KHhv/netfilx-min.png",
+      "aitoolurl": "https://www.netflix.com/"
+    },
+    {
+      "aitoolname": "TikTok",
+      "aitoolimage": "https://i.postimg.cc/T2CNz4Tq/tictok-min.png",
+      "aitoolurl": "https://www.tiktok.com/"
+    },
+    {
+      "aitoolname": "Amazon",
+      "aitoolimage": "https://i.postimg.cc/RVzgkxHY/amazon-min.png",
+      "aitoolurl": "https://www.amazon.com/"
+    },
+    {
+      "aitoolname": "Gmail",
+      "aitoolimage": "https://i.postimg.cc/3Jd2fLLq/gmail-min.png",
+      "aitoolurl": "https://mail.google.com/mail/"
+    },
+    {
+      "aitoolname": "Google Maps",
+      "aitoolimage": "https://i.postimg.cc/QM4fWBV9/map-min.png",
+      "aitoolurl": "https://www.google.com/maps"
+    },
+    {
+      "aitoolname": "Uber",
+      "aitoolimage": "https://i.postimg.cc/CK7bR9Pc/ubar-min.jpg",
+      "aitoolurl": "https://www.uber.com/"
+    },
+    {
+      "aitoolname": "Google Drive",
+      "aitoolimage": "https://i.postimg.cc/MTgfCw3r/googledrive-min.png",
+      "aitoolurl": "https://drive.google.com/drive/"
+    },
+    {
+      "aitoolname": "Skype",
+      "aitoolimage": "https://i.postimg.cc/13xXsMH4/skyoe.png",
+      "aitoolurl": "https://www.skype.com/"
+    },
+    {
+      "aitoolname": "Google Calendar",
+      "aitoolimage": "https://i.postimg.cc/PJKvVDZT/calender.png",
+      "aitoolurl": "https://calendar.google.com/calendar/"
+    },
+    {
+      "aitoolname": "Google Docs",
+      "aitoolimage": "https://i.postimg.cc/YCxghJjh/googledocs.png",
+      "aitoolurl": "https://docs.google.com/document/"
+    },
+    {
+      "aitoolname": "Google Sheets",
+      "aitoolimage": "https://i.postimg.cc/vZnqk8PC/googlesheet.png",
+      "aitoolurl": "https://www.google.com/sheets/about/"
+    },
+    {
+      "aitoolname": "Google Slides",
+      "aitoolimage": "https://i.postimg.cc/xd2wPpGr/googleslider.png",
+      "aitoolurl": "https://www.google.com/slides/about/"
+    },
+    {
+      "aitoolname": "Twitch",
+      "aitoolimage": "https://i.postimg.cc/CxPFdNCj/thwich-min.png",
+      "aitoolurl": "https://www.twitch.com/"
+    },
+    {
+      "aitoolname": "Google Forms",
+      "aitoolimage": "https://i.postimg.cc/Vk7vy1dB/googlefrom.png",
+      "aitoolurl": "https://www.google.com/forms/about/"
+    },
+    {
+      "aitoolname": "Google Meet",
+      "aitoolimage": "https://i.postimg.cc/cHGN25MB/googlemeet.png",
+      "aitoolurl": "https://meet.google.com/"
+    },
+    {
+      "aitoolname": "Google Hangouts",
+      "aitoolimage": "https://i.postimg.cc/BvLqdFW4/Google-Hangouts.png",
+      "aitoolurl": "https://mail.google.com/chat/u/0/"
+    },
+    {
+      "aitoolname": "Google Keep",
+      "aitoolimage": "https://i.postimg.cc/gkgmjsmG/googlekeep.png",
+      "aitoolurl": "https://keep.google.com/"
+    },
+    {
+      "aitoolname": "Google Photos",
+      "aitoolimage": "https://i.postimg.cc/C5vXhvDt/googlephoto.png",
+      "aitoolurl": "https://photos.google.com/"
+    },
+    {
+      "aitoolname": "Google Translate",
+      "aitoolimage": "https://i.postimg.cc/TPVCCkkb/transletor.png",
+      "aitoolurl": "https://translate.google.com/"
+    },
+    {
+      "aitoolname": "Google News",
+      "aitoolimage": "https://i.postimg.cc/mgcfDGmS/googlenews.png",
+      "aitoolurl": "https://news.google.com/"
+    },
+    {
+      "aitoolname": "Google Contacts",
+      "aitoolimage": "https://i.postimg.cc/vBZsL6QW/contrach.png",
+      "aitoolurl": "https://contacts.google.com/"
+    },
+    {
+      "aitoolname": "Google Tasks",
+      "aitoolimage": "https://i.postimg.cc/5yGgKD8x/googletask.png",
+      "aitoolurl": "https://tasks.google.com/"
+    },
+    {
+      "aitoolname": "Google Earth",
+      "aitoolimage": "https://i.postimg.cc/RZG6MKbt/googleearth.png",
+      "aitoolurl": "https://earth.google.com/static/multi-threaded/versions/10.49.0.0/index.html?"
+    },
+    {
+      "aitoolname": "Google Classroom",
+      "aitoolimage": "https://i.postimg.cc/vT8cnmKj/calssroom.png",
+      "aitoolurl": "https://classroom.google.com/"
+    },
+    {
+      "aitoolname": "Google Ads",
+      "aitoolimage": "https://i.postimg.cc/90Swjhxn/googleads.png",
+      "aitoolurl": "https://ads.google.com/"
+    },
+    {
+      "aitoolname": "Google Play Music",
+      "aitoolimage": "https://i.postimg.cc/Rh5K3f5T/youtubeplay.png",
+      "aitoolurl": "https://music.youtube.com/"
+    },
+    {
+      "aitoolname": "Google Pay",
+      "aitoolimage": "https://i.postimg.cc/N0DzksfT/gpay.png",
+      "aitoolurl": "https://pay.google.com/"
+    },
+    {
+      "aitoolname": "Google Scholar",
+      "aitoolimage": "https://i.postimg.cc/Z5v2mxq7/google-Scholar.png",
+      "aitoolurl": "https://scholar.google.com/"
+    },
+    {
+      "aitoolname": "Google Duo",
+      "aitoolimage": "https://i.postimg.cc/PrH1TmMX/zoom.png",
+      "aitoolurl": "https://meet.google.com/"
+    },
+    {
+      "aitoolname": "Google Colab",
+      "aitoolimage": "https://i.postimg.cc/LX2XdXmX/colab.png",
+      "aitoolurl": "https://colab.research.google.com/"
+    },
+    {
+      "aitoolname": "Trello",
+      "aitoolimage": "https://i.postimg.cc/jqgvgnhM/Trello.png",
+      "aitoolurl": "https://trello.com/"
+    },
+    {
+      "aitoolname": "Notion",
+      "aitoolimage": "https://i.postimg.cc/7ZcCGwwP/notion.png",
+      "aitoolurl": "https://www.notion.so/"
+    },
+    {
+      "aitoolname": "Slack",
+      "aitoolimage": "https://i.postimg.cc/vH5g1pD5/stack.png",
+      "aitoolurl": "https://slack.com/"
+    },
+    {
+      "aitoolname": "Google Chat",
+      "aitoolimage": "https://i.postimg.cc/d1NL8FKV/googlechat.png",
+      "aitoolurl": "https://mail.google.com/"
+    },
+    {
+      "aitoolname": "Disney+",
+      "aitoolimage": "https://i.postimg.cc/26KPQc9D/disneyp.png",
+      "aitoolurl": "https://www.preview.disneyplus.com/"
+    },
+    {
+      "aitoolname": "Snapchat",
+      "aitoolimage": "https://i.postimg.cc/3N4rHD0g/snapshort.png",
+      "aitoolurl": "https://web.snapchat.com/"
+    },
+    {
+      "aitoolname": "Amazon Prime Video",
+      "aitoolimage": "https://i.postimg.cc/0y6jqFmT/primevideo.png",
+      "aitoolurl": "https://www.amazon.com/gp/video/storefront"
+    },
+    {
+      "aitoolname": "Pinterest",
+      "aitoolimage": "https://i.postimg.cc/4yN42SsF/printrest.png",
+      "aitoolurl": "https://www.pinterest.com/"
+    },
+    {
+      "aitoolname": "Booking.com",
+      "aitoolimage": "https://i.postimg.cc/L5SjbRbB/bookingcom.png",
+      "aitoolurl": "https://www.booking.com/"
+    },
+    {
+      "aitoolname": "Expedia",
+      "aitoolimage": "https://i.postimg.cc/m2X8tznv/expedia.png",
+      "aitoolurl": "https://www.expedia.com/"
+    },
+    {
+      "aitoolname": "Khan Academy",
+      "aitoolimage": "https://i.postimg.cc/mrbYjTKY/khanacademy.jpg",
+      "aitoolurl": "https://www.khanacademy.org/"
+    },
+    {
+      "aitoolname": "Codecademy",
+      "aitoolimage": "https://i.postimg.cc/KvHRKxDq/codecademy.png",
+      "aitoolurl": "https://www.codecademy.com/"
+    },
+    {
+      "aitoolname": "Duolingo",
+      "aitoolimage": "https://i.postimg.cc/mZcr00s7/duolingo.jpg",
+      "aitoolurl": "https://www.duolingo.com/"
+    },
+    {
+      "aitoolname": "Udacity",
+      "aitoolimage": "https://i.postimg.cc/t4H6298r/udacity.png",
+      "aitoolurl": "https://www.udacity.com/"
+    },
+    {
+      "aitoolname": "Skillshare",
+      "aitoolimage": "https://i.postimg.cc/wxG3b9RX/skillshare.png",
+      "aitoolurl": "https://www.skillshare.com/"
+    },
+    {
+      "aitoolname": "MasterClass",
+      "aitoolimage": "https://i.postimg.cc/s2XcyVKV/masterclass.png",
+      "aitoolurl": "https://masterclass.com/"
+    },
+    {
+      "aitoolname": "eBay",
+      "aitoolimage": "https://i.postimg.cc/TPSzmN4X/ebay.png",
+      "aitoolurl": "https://www.ebay.com/"
+    },
+    {
+      "aitoolname": "Walmart",
+      "aitoolimage": "https://i.postimg.cc/g0tK0n2M/wallmart.png",
+      "aitoolurl": "https://www.walmart.com/"
+    },
+    {
+      "aitoolname": "AliExpress",
+      "aitoolimage": "https://i.postimg.cc/43Xwm65Q/aliexpress.png",
+      "aitoolurl": "https://www.aliexpress.com/"
+    },
+    {
+      "aitoolname": "YouTube TV",
+      "aitoolimage": "https://i.postimg.cc/rpHSk3f3/youtube.png",
+      "aitoolurl": "https://tv.youtube.com/welcome/"
+    },
+    {
+      "aitoolname": "Signal",
+      "aitoolimage": "https://i.postimg.cc/SNRCJZCr/signal-min.jpg",
+      "aitoolurl": "https://www.signal.org/"
+    }
+    
+  ]

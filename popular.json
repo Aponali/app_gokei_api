@@ -1,0 +1,299 @@
+[
+    {
+      "popularname": "Google",
+      "popularimage": "https://i.postimg.cc/cH7NSMFy/google-min.png",
+      "popularurl": "https://google.com/"
+    },
+    {
+      "popularname": "Youtube",
+      "popularimage": "https://i.postimg.cc/pTnKXC7T/youtube-min.png",
+      "popularurl": "https://www.youtube.com/"
+    },
+  
+    {
+      "popularname": "Instagram",
+      "popularimage": "https://i.postimg.cc/SKqrP6Yz/instragram-min.png",
+      "popularurl": "https://www.instagram.com/?hl=en"
+    },
+    {
+      "popularname": "Twitter",
+      "popularimage": "https://i.postimg.cc/ydfhb20D/twiter.png",
+      "popularurl": "https://twitter.com/"
+    },
+    {
+      "popularname": "Discord",
+      "popularimage": "https://i.postimg.cc/t4GGvcqR/discord-min.png",
+      "popularurl": "https://www.discord.com/"
+    },
+    {
+      "popularname": "Reddit",
+      "popularimage": "https://i.postimg.cc/BZcMxw8f/reddit-min.png",
+      "popularurl": "https://www.reddit.com/"
+    },
+    {
+      "popularname": "Telegram",
+      "popularimage": "https://i.postimg.cc/XqSN4Yfm/telegram.png",
+      "popularurl": "https://web.telegram.org/"
+    },
+    {
+      "popularname": "Spotify",
+      "popularimage": "https://i.postimg.cc/Dm3hkpTT/sptify-min.png",
+      "popularurl": "https://open.spotify.com/"
+    },
+    {
+      "popularname": "Netflix",
+      "popularimage": "https://i.postimg.cc/HLq7KHhv/netfilx-min.png",
+      "popularurl": "https://www.netflix.com/"
+    },
+    {
+      "popularname": "TikTok",
+      "popularimage": "https://i.postimg.cc/T2CNz4Tq/tictok-min.png",
+      "popularurl": "https://www.tiktok.com/"
+    },
+    {
+      "popularname": "Amazon",
+      "popularimage": "https://i.postimg.cc/RVzgkxHY/amazon-min.png",
+      "popularurl": "https://www.amazon.com/"
+    },
+    {
+      "popularname": "Gmail",
+      "popularimage": "https://i.postimg.cc/3Jd2fLLq/gmail-min.png",
+      "popularurl": "https://mail.google.com/mail/"
+    },
+    {
+      "popularname": "Google Maps",
+      "popularimage": "https://i.postimg.cc/QM4fWBV9/map-min.png",
+      "popularurl": "https://www.google.com/maps"
+    },
+    {
+      "popularname": "Uber",
+      "popularimage": "https://i.postimg.cc/CK7bR9Pc/ubar-min.jpg",
+      "popularurl": "https://www.uber.com/"
+    },
+    {
+      "popularname": "Google Drive",
+      "popularimage": "https://i.postimg.cc/MTgfCw3r/googledrive-min.png",
+      "popularurl": "https://drive.google.com/drive/"
+    },
+    {
+      "popularname": "Skype",
+      "popularimage": "https://i.postimg.cc/13xXsMH4/skyoe.png",
+      "popularurl": "https://www.skype.com/"
+    },
+    {
+      "popularname": "Google Calendar",
+      "popularimage": "https://i.postimg.cc/PJKvVDZT/calender.png",
+      "popularurl": "https://calendar.google.com/calendar/"
+    },
+    {
+      "popularname": "Google Docs",
+      "popularimage": "https://i.postimg.cc/YCxghJjh/googledocs.png",
+      "popularurl": "https://docs.google.com/document/"
+    },
+    {
+      "popularname": "Google Sheets",
+      "popularimage": "https://i.postimg.cc/vZnqk8PC/googlesheet.png",
+      "popularurl": "https://www.google.com/sheets/about/"
+    },
+    {
+      "popularname": "Google Slides",
+      "popularimage": "https://i.postimg.cc/xd2wPpGr/googleslider.png",
+      "popularurl": "https://www.google.com/slides/about/"
+    },
+    {
+      "popularname": "Twitch",
+      "popularimage": "https://i.postimg.cc/CxPFdNCj/thwich-min.png",
+      "popularurl": "https://www.twitch.com/"
+    },
+    {
+      "popularname": "Google Forms",
+      "popularimage": "https://i.postimg.cc/Vk7vy1dB/googlefrom.png",
+      "popularurl": "https://www.google.com/forms/about/"
+    },
+    {
+      "popularname": "Google Meet",
+      "popularimage": "https://i.postimg.cc/cHGN25MB/googlemeet.png",
+      "popularurl": "https://meet.google.com/"
+    },
+    {
+      "popularname": "Google Hangouts",
+      "popularimage": "https://i.postimg.cc/BvLqdFW4/Google-Hangouts.png",
+      "popularurl": "https://mail.google.com/chat/u/0/"
+    },
+    {
+      "popularname": "Google Keep",
+      "popularimage": "https://i.postimg.cc/gkgmjsmG/googlekeep.png",
+      "popularurl": "https://keep.google.com/"
+    },
+    {
+      "popularname": "Google Photos",
+      "popularimage": "https://i.postimg.cc/C5vXhvDt/googlephoto.png",
+      "popularurl": "https://photos.google.com/"
+    },
+    {
+      "popularname": "Google Translate",
+      "popularimage": "https://i.postimg.cc/TPVCCkkb/transletor.png",
+      "popularurl": "https://translate.google.com/"
+    },
+    {
+      "popularname": "Google News",
+      "popularimage": "https://i.postimg.cc/mgcfDGmS/googlenews.png",
+      "popularurl": "https://news.google.com/"
+    },
+    {
+      "popularname": "Google Contacts",
+      "popularimage": "https://i.postimg.cc/vBZsL6QW/contrach.png",
+      "popularurl": "https://contacts.google.com/"
+    },
+    {
+      "popularname": "Google Tasks",
+      "popularimage": "https://i.postimg.cc/5yGgKD8x/googletask.png",
+      "popularurl": "https://tasks.google.com/"
+    },
+    {
+      "popularname": "Google Earth",
+      "popularimage": "https://i.postimg.cc/RZG6MKbt/googleearth.png",
+      "popularurl": "https://earth.google.com/static/multi-threaded/versions/10.49.0.0/index.html?"
+    },
+    {
+      "popularname": "Google Classroom",
+      "popularimage": "https://i.postimg.cc/vT8cnmKj/calssroom.png",
+      "popularurl": "https://classroom.google.com/"
+    },
+    {
+      "popularname": "Google Ads",
+      "popularimage": "https://i.postimg.cc/90Swjhxn/googleads.png",
+      "popularurl": "https://ads.google.com/"
+    },
+    {
+      "popularname": "Google Play Music",
+      "popularimage": "https://i.postimg.cc/Rh5K3f5T/youtubeplay.png",
+      "popularurl": "https://music.youtube.com/"
+    },
+    {
+      "popularname": "Google Pay",
+      "popularimage": "https://i.postimg.cc/N0DzksfT/gpay.png",
+      "popularurl": "https://pay.google.com/"
+    },
+    {
+      "popularname": "Google Scholar",
+      "popularimage": "https://i.postimg.cc/Z5v2mxq7/google-Scholar.png",
+      "popularurl": "https://scholar.google.com/"
+    },
+    {
+      "popularname": "Google Duo",
+      "popularimage": "https://i.postimg.cc/PrH1TmMX/zoom.png",
+      "popularurl": "https://meet.google.com/"
+    },
+    {
+      "popularname": "Google Colab",
+      "popularimage": "https://i.postimg.cc/LX2XdXmX/colab.png",
+      "popularurl": "https://colab.research.google.com/"
+    },
+    {
+      "popularname": "Trello",
+      "popularimage": "https://i.postimg.cc/jqgvgnhM/Trello.png",
+      "popularurl": "https://trello.com/"
+    },
+    {
+      "popularname": "Notion",
+      "popularimage": "https://i.postimg.cc/7ZcCGwwP/notion.png",
+      "popularurl": "https://www.notion.so/"
+    },
+    {
+      "popularname": "Slack",
+      "popularimage": "https://i.postimg.cc/vH5g1pD5/stack.png",
+      "popularurl": "https://slack.com/"
+    },
+    {
+      "popularname": "Google Chat",
+      "popularimage": "https://i.postimg.cc/d1NL8FKV/googlechat.png",
+      "popularurl": "https://mail.google.com/"
+    },
+    {
+      "popularname": "Disney+",
+      "popularimage": "https://i.postimg.cc/26KPQc9D/disneyp.png",
+      "popularurl": "https://www.preview.disneyplus.com/"
+    },
+    {
+      "popularname": "Snapchat",
+      "popularimage": "https://i.postimg.cc/3N4rHD0g/snapshort.png",
+      "popularurl": "https://web.snapchat.com/"
+    },
+    {
+      "popularname": "Amazon Prime Video",
+      "popularimage": "https://i.postimg.cc/0y6jqFmT/primevideo.png",
+      "popularurl": "https://www.amazon.com/gp/video/storefront"
+    },
+    {
+      "popularname": "Pinterest",
+      "popularimage": "https://i.postimg.cc/4yN42SsF/printrest.png",
+      "popularurl": "https://www.pinterest.com/"
+    },
+    {
+      "popularname": "Booking.com",
+      "popularimage": "https://i.postimg.cc/L5SjbRbB/bookingcom.png",
+      "popularurl": "https://www.booking.com/"
+    },
+    {
+      "popularname": "Expedia",
+      "popularimage": "https://i.postimg.cc/m2X8tznv/expedia.png",
+      "popularurl": "https://www.expedia.com/"
+    },
+    {
+      "popularname": "Khan Academy",
+      "popularimage": "https://i.postimg.cc/mrbYjTKY/khanacademy.jpg",
+      "popularurl": "https://www.khanacademy.org/"
+    },
+    {
+      "popularname": "Codecademy",
+      "popularimage": "https://i.postimg.cc/KvHRKxDq/codecademy.png",
+      "popularurl": "https://www.codecademy.com/"
+    },
+    {
+      "popularname": "Duolingo",
+      "popularimage": "https://i.postimg.cc/mZcr00s7/duolingo.jpg",
+      "popularurl": "https://www.duolingo.com/"
+    },
+    {
+      "popularname": "Udacity",
+      "popularimage": "https://i.postimg.cc/t4H6298r/udacity.png",
+      "popularurl": "https://www.udacity.com/"
+    },
+    {
+      "popularname": "Skillshare",
+      "popularimage": "https://i.postimg.cc/wxG3b9RX/skillshare.png",
+      "popularurl": "https://www.skillshare.com/"
+    },
+    {
+      "popularname": "MasterClass",
+      "popularimage": "https://i.postimg.cc/s2XcyVKV/masterclass.png",
+      "popularurl": "https://masterclass.com/"
+    },
+    {
+      "popularname": "eBay",
+      "popularimage": "https://i.postimg.cc/TPSzmN4X/ebay.png",
+      "popularurl": "https://www.ebay.com/"
+    },
+    {
+      "popularname": "Walmart",
+      "popularimage": "https://i.postimg.cc/g0tK0n2M/wallmart.png",
+      "popularurl": "https://www.walmart.com/"
+    },
+    {
+      "popularname": "AliExpress",
+      "popularimage": "https://i.postimg.cc/43Xwm65Q/aliexpress.png",
+      "popularurl": "https://www.aliexpress.com/"
+    },
+    {
+      "popularname": "YouTube TV",
+      "popularimage": "https://i.postimg.cc/rpHSk3f3/youtube.png",
+      "popularurl": "https://tv.youtube.com/welcome/"
+    },
+    {
+      "popularname": "Signal",
+      "popularimage": "https://i.postimg.cc/SNRCJZCr/signal-min.jpg",
+      "popularurl": "https://www.signal.org/"
+    }
+    
+  ]

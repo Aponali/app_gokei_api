@@ -1,0 +1,297 @@
+[
+    {
+        "socialname": "Google",
+        "socialimage": "https://i.postimg.cc/cH7NSMFy/google-min.png",
+        "socialurl": "https://google.com/"
+    },
+    {
+        "socialname": "Youtube",
+        "socialimage": "https://i.postimg.cc/pTnKXC7T/youtube-min.png",
+        "socialurl": "https://www.youtube.com/"
+    },
+    {
+        "socialname": "Instagram",
+        "socialimage": "https://i.postimg.cc/SKqrP6Yz/instragram-min.png",
+        "socialurl": "https://www.instagram.com/?hl=en"
+    },
+    {
+        "socialname": "Twitter",
+        "socialimage": "https://i.postimg.cc/ydfhb20D/twiter.png",
+        "socialurl": "https://twitter.com/"
+    },
+    {
+        "socialname": "Discord",
+        "socialimage": "https://i.postimg.cc/t4GGvcqR/discord-min.png",
+        "socialurl": "https://www.discord.com/"
+    },
+    {
+        "socialname": "Reddit",
+        "socialimage": "https://i.postimg.cc/BZcMxw8f/reddit-min.png",
+        "socialurl": "https://www.reddit.com/"
+    },
+    {
+        "socialname": "Telegram",
+        "socialimage": "https://i.postimg.cc/XqSN4Yfm/telegram.png",
+        "socialurl": "https://web.telegram.org/"
+    },
+    {
+        "socialname": "Spotify",
+        "socialimage": "https://i.postimg.cc/Dm3hkpTT/sptify-min.png",
+        "socialurl": "https://open.spotify.com/"
+    },
+    {
+        "socialname": "Netflix",
+        "socialimage": "https://i.postimg.cc/HLq7KHhv/netfilx-min.png",
+        "socialurl": "https://www.netflix.com/"
+    },
+    {
+        "socialname": "TikTok",
+        "socialimage": "https://i.postimg.cc/T2CNz4Tq/tictok-min.png",
+        "socialurl": "https://www.tiktok.com/"
+    },
+    {
+        "socialname": "Amazon",
+        "socialimage": "https://i.postimg.cc/RVzgkxHY/amazon-min.png",
+        "socialurl": "https://www.amazon.com/"
+    },
+    {
+        "socialname": "Gmail",
+        "socialimage": "https://i.postimg.cc/3Jd2fLLq/gmail-min.png",
+        "socialurl": "https://mail.google.com/mail/"
+    },
+    {
+        "socialname": "Google Maps",
+        "socialimage": "https://i.postimg.cc/QM4fWBV9/map-min.png",
+        "socialurl": "https://www.google.com/maps"
+    },
+    {
+        "socialname": "Uber",
+        "socialimage": "https://i.postimg.cc/CK7bR9Pc/ubar-min.jpg",
+        "socialurl": "https://www.uber.com/"
+    },
+    {
+        "socialname": "Google Drive",
+        "socialimage": "https://i.postimg.cc/MTgfCw3r/googledrive-min.png",
+        "socialurl": "https://drive.google.com/drive/"
+    },
+    {
+        "socialname": "Skype",
+        "socialimage": "https://i.postimg.cc/13xXsMH4/skyoe.png",
+        "socialurl": "https://www.skype.com/"
+    },
+    {
+        "socialname": "Google Calendar",
+        "socialimage": "https://i.postimg.cc/PJKvVDZT/calender.png",
+        "socialurl": "https://calendar.google.com/calendar/"
+    },
+    {
+        "socialname": "Google Docs",
+        "socialimage": "https://i.postimg.cc/YCxghJjh/googledocs.png",
+        "socialurl": "https://docs.google.com/document/"
+    },
+    {
+        "socialname": "Google Sheets",
+        "socialimage": "https://i.postimg.cc/vZnqk8PC/googlesheet.png",
+        "socialurl": "https://www.google.com/sheets/about/"
+    },
+    {
+        "socialname": "Google Slides",
+        "socialimage": "https://i.postimg.cc/xd2wPpGr/googleslider.png",
+        "socialurl": "https://www.google.com/slides/about/"
+    },
+    {
+        "socialname": "Twitch",
+        "socialimage": "https://i.postimg.cc/CxPFdNCj/thwich-min.png",
+        "socialurl": "https://www.twitch.com/"
+    },
+    {
+        "socialname": "Google Forms",
+        "socialimage": "https://i.postimg.cc/Vk7vy1dB/googlefrom.png",
+        "socialurl": "https://www.google.com/forms/about/"
+    },
+    {
+        "socialname": "Google Meet",
+        "socialimage": "https://i.postimg.cc/cHGN25MB/googlemeet.png",
+        "socialurl": "https://meet.google.com/"
+    },
+    {
+        "socialname": "Google Hangouts",
+        "socialimage": "https://i.postimg.cc/BvLqdFW4/Google-Hangouts.png",
+        "socialurl": "https://mail.google.com/chat/u/0/"
+    },
+    {
+        "socialname": "Google Keep",
+        "socialimage": "https://i.postimg.cc/gkgmjsmG/googlekeep.png",
+        "socialurl": "https://keep.google.com/"
+    },
+    {
+        "socialname": "Google Photos",
+        "socialimage": "https://i.postimg.cc/C5vXhvDt/googlephoto.png",
+        "socialurl": "https://photos.google.com/"
+    },
+    {
+        "socialname": "Google Translate",
+        "socialimage": "https://i.postimg.cc/TPVCCkkb/transletor.png",
+        "socialurl": "https://translate.google.com/"
+    },
+    {
+        "socialname": "Google News",
+        "socialimage": "https://i.postimg.cc/mgcfDGmS/googlenews.png",
+        "socialurl": "https://news.google.com/"
+    },
+    {
+        "socialname": "Google Contacts",
+        "socialimage": "https://i.postimg.cc/vBZsL6QW/contrach.png",
+        "socialurl": "https://contacts.google.com/"
+    },
+    {
+        "socialname": "Google Tasks",
+        "socialimage": "https://i.postimg.cc/5yGgKD8x/googletask.png",
+        "socialurl": "https://tasks.google.com/"
+    },
+    {
+        "socialname": "Google Earth",
+        "socialimage": "https://i.postimg.cc/RZG6MKbt/googleearth.png",
+        "socialurl": "https://earth.google.com/static/multi-threaded/versions/10.49.0.0/index.html?"
+    },
+    {
+        "socialname": "Google Classroom",
+        "socialimage": "https://i.postimg.cc/vT8cnmKj/calssroom.png",
+        "socialurl": "https://classroom.google.com/"
+    },
+    {
+        "socialname": "Google Ads",
+        "socialimage": "https://i.postimg.cc/90Swjhxn/googleads.png",
+        "socialurl": "https://ads.google.com/"
+    },
+    {
+        "socialname": "Google Play Music",
+        "socialimage": "https://i.postimg.cc/Rh5K3f5T/youtubeplay.png",
+        "socialurl": "https://music.youtube.com/"
+    },
+    {
+        "socialname": "Google Pay",
+        "socialimage": "https://i.postimg.cc/N0DzksfT/gpay.png",
+        "socialurl": "https://pay.google.com/"
+    },
+    {
+        "socialname": "Google Scholar",
+        "socialimage": "https://i.postimg.cc/Z5v2mxq7/google-Scholar.png",
+        "socialurl": "https://scholar.google.com/"
+    },
+    {
+        "socialname": "Google Duo",
+        "socialimage": "https://i.postimg.cc/PrH1TmMX/zoom.png",
+        "socialurl": "https://meet.google.com/"
+    },
+    {
+        "socialname": "Google Colab",
+        "socialimage": "https://i.postimg.cc/LX2XdXmX/colab.png",
+        "socialurl": "https://colab.research.google.com/"
+    },
+    {
+        "socialname": "Trello",
+        "socialimage": "https://i.postimg.cc/jqgvgnhM/Trello.png",
+        "socialurl": "https://trello.com/"
+    },
+    {
+        "socialname": "Notion",
+        "socialimage": "https://i.postimg.cc/7ZcCGwwP/notion.png",
+        "socialurl": "https://www.notion.so/"
+    },
+    {
+        "socialname": "Slack",
+        "socialimage": "https://i.postimg.cc/vH5g1pD5/stack.png",
+        "socialurl": "https://slack.com/"
+    },
+    {
+        "socialname": "Google Chat",
+        "socialimage": "https://i.postimg.cc/d1NL8FKV/googlechat.png",
+        "socialurl": "https://mail.google.com/"
+    },
+    {
+        "socialname": "Disney+",
+        "socialimage": "https://i.postimg.cc/26KPQc9D/disneyp.png",
+        "socialurl": "https://www.preview.disneyplus.com/"
+    },
+    {
+        "socialname": "Snapchat",
+        "socialimage": "https://i.postimg.cc/3N4rHD0g/snapshort.png",
+        "socialurl": "https://web.snapchat.com/"
+    },
+    {
+        "socialname": "Amazon Prime Video",
+        "socialimage": "https://i.postimg.cc/0y6jqFmT/primevideo.png",
+        "socialurl": "https://www.amazon.com/gp/video/storefront"
+    },
+    {
+        "socialname": "Pinterest",
+        "socialimage": "https://i.postimg.cc/4yN42SsF/printrest.png",
+        "socialurl": "https://www.pinterest.com/"
+    },
+    {
+        "socialname": "Booking.com",
+        "socialimage": "https://i.postimg.cc/L5SjbRbB/bookingcom.png",
+        "socialurl": "https://www.booking.com/"
+    },
+    {
+        "socialname": "Expedia",
+        "socialimage": "https://i.postimg.cc/m2X8tznv/expedia.png",
+        "socialurl": "https://www.expedia.com/"
+    },
+    {
+        "socialname": "Khan Academy",
+        "socialimage": "https://i.postimg.cc/mrbYjTKY/khanacademy.jpg",
+        "socialurl": "https://www.khanacademy.org/"
+    },
+    {
+        "socialname": "Codecademy",
+        "socialimage": "https://i.postimg.cc/KvHRKxDq/codecademy.png",
+        "socialurl": "https://www.codecademy.com/"
+    },
+    {
+        "socialname": "Duolingo",
+        "socialimage": "https://i.postimg.cc/mZcr00s7/duolingo.jpg",
+        "socialurl": "https://www.duolingo.com/"
+    },
+    {
+        "socialname": "Udacity",
+        "socialimage": "https://i.postimg.cc/t4H6298r/udacity.png",
+        "socialurl": "https://www.udacity.com/"
+    },
+    {
+        "socialname": "Skillshare",
+        "socialimage": "https://i.postimg.cc/wxG3b9RX/skillshare.png",
+        "socialurl": "https://www.skillshare.com/"
+    },
+    {
+        "socialname": "MasterClass",
+        "socialimage": "https://i.postimg.cc/s2XcyVKV/masterclass.png",
+        "socialurl": "https://masterclass.com/"
+    },
+    {
+        "socialname": "eBay",
+        "socialimage": "https://i.postimg.cc/TPSzmN4X/ebay.png",
+        "socialurl": "https://www.ebay.com/"
+    },
+    {
+        "socialname": "Walmart",
+        "socialimage": "https://i.postimg.cc/g0tK0n2M/wallmart.png",
+        "socialurl": "https://www.walmart.com/"
+    },
+    {
+        "socialname": "AliExpress",
+        "socialimage": "https://i.postimg.cc/43Xwm65Q/aliexpress.png",
+        "socialurl": "https://www.aliexpress.com/"
+    },
+    {
+        "socialname": "YouTube TV",
+        "socialimage": "https://i.postimg.cc/rpHSk3f3/youtube.png",
+        "socialurl": "https://tv.youtube.com/welcome/"
+    },
+    {
+        "socialname": "Signal",
+        "socialimage": "https://i.postimg.cc/SNRCJZCr/signal-min.jpg",
+        "socialurl": "https://www.signal.org/"
+    }
+]
