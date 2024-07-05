@@ -10,9 +10,9 @@
     "allurl": "https://www.youtube.com/"
   },
   {
-    "socialname": "Facebook",
-    "socialimage": "https://i.postimg.cc/QxZdDZ6G/facebook.png",
-    "socialurl": "https://www.facebook.com/"
+    "allname": "Facebook",
+    "allimage": "https://i.postimg.cc/QxZdDZ6G/facebook.png",
+    "allurl": "https://www.facebook.com/"
   },
   {
     "allname": "Instagram",
