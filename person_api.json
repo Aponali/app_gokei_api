@@ -1,0 +1,76 @@
+{
+    "AppInformation": [
+        {
+            "appImage": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+            "appName": "Facebook",
+            "appStartDay": "February 4, 2004",
+            "appBio": "Facebook is a social networking service launched by Mark Zuckerberg and his college roommates. Initially limited to Harvard students, it quickly expanded to other universities and eventually to the general public. Facebook allows users to connect with friends and family, share content, and engage with communities. Over time, it has evolved into a major platform for social interaction, business marketing, and digital communication."
+        },
+        {
+            "appImage": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+            "appName": "Google",
+            "appStartDay": "September 4, 1998",
+            "appBio": "Google is a multinational technology company specializing in Internet-related services and products. Founded by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University, Google began as a search engine and quickly became the world's most popular. The company has since expanded into various areas, including advertising, cloud computing, software, and hardware. Google's mission is to organize the world's information and make it universally accessible and useful."
+        },
+        {
+            "appImage": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
+            "appName": "YouTube",
+            "appStartDay": "February 14, 2005",
+            "appBio": "YouTube is a global video-sharing platform that allows users to upload, share, and view videos. It was founded by Steve Chen, Chad Hurley, and Jawed Karim, and quickly became one of the most visited websites in the world. Acquired by Google in 2006, YouTube has grown to host a vast array of content, ranging from music videos and vlogs to educational content and live streams. It has become a crucial platform for creators and a central hub for online video content."
+        },
+        {
+            "appImage": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+            "appName": "Instagram",
+            "appStartDay": "October 6, 2010",
+            "appBio": "Instagram is a photo and video-sharing social networking service founded by Kevin Systrom and Mike Krieger. It was initially launched as an iOS app and quickly gained popularity for its easy-to-use interface and photo filters. Instagram allows users to share images and videos with followers, explore content from others, and connect through likes, comments, and direct messaging. In 2012, Instagram was acquired by Facebook, and it has since become one of the most popular social media platforms globally."
+        },
+        {
+            "appImage": "https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg",
+            "appName": "Discord",
+            "appStartDay": "May 13, 2015",
+            "appBio": "Discord is a voice, video, and text communication platform designed for creating communities. It was founded by Jason Citron and Stan Vishnevskiy as a solution for gamers to communicate while playing, but it quickly expanded to serve a broader audience. Discord allows users to create servers and channels for various topics, engage in real-time discussions, share media, and collaborate. Its flexibility and robust feature set have made it popular among gaming, educational, and hobbyist communities."
+        },
+        {
+            "appImage": "https://upload.wikimedia.org/wikipedia/commons/5/58/Reddit_logo_new.svg",
+            "appName": "Reddit",
+            "appStartDay": "June 23, 2005",
+            "appBio": "Reddit is a social news aggregation, web content rating, and discussion website founded by Steve Huffman and Alexis Ohanian. It consists of user-generated content—such as text, links, and images—posted in specific communities called 'subreddits.' Each subreddit focuses on a particular topic, allowing users to discuss and share related content. Reddit is known for its community-driven approach and its upvote/downvote system, which determines the visibility of posts."
+        },
+        {
+            "appImage": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+            "appName": "Telegram",
+            "appStartDay": "August 14, 2013",
+            "appBio": "Telegram is a cloud-based instant messaging app that focuses on speed and security. It was founded by brothers Pavel and Nikolai Durov, who also created the Russian social network VKontakte (VK). Telegram allows users to send text messages, voice messages, and multimedia files. It also supports group chats, channels, and bots, with a strong emphasis on encryption and privacy. Telegram has gained popularity as a secure alternative to other messaging platforms."
+        },
+        {
+            "appImage": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+            "appName": "Amazon",
+            "appStartDay": "July 5, 1994",
+            "appBio": "Amazon is a multinational technology and e-commerce company founded by Jeff Bezos. Originally launched as an online bookstore, Amazon has since expanded into a wide range of product categories, becoming one of the largest online retailers in the world. In addition to its e-commerce platform, Amazon offers various services including Amazon Web Services (AWS), streaming services through Amazon Prime Video, and smart devices like the Amazon Echo. Amazon's innovation and customer-centric approach have made it a dominant force in the tech industry."
+        },
+        {
+            "appImage": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_2020.svg",
+            "appName": "Gmail",
+            "appStartDay": "April 1, 2004",
+            "appBio": "Gmail is a free email service developed by Google. Launched as an invitation-only service, it quickly gained popularity for its large storage capacity, powerful search capabilities, and integration with other Google services. Gmail revolutionized email with features like threaded conversations and powerful spam filters. It is now one of the most widely used email services in the world, available across multiple platforms and devices."
+        },
+        {
+            "appImage": "https://upload.wikimedia.org/wikipedia/commons/9/97/Google_Maps_icon_%282020%29.svg",
+            "appName": "Google Maps",
+            "appStartDay": "February 8, 2005",
+            "appBio": "Google Maps is a web-based service that offers mapping technology and location-based services developed by Google. It provides detailed geographical information, including street maps, satellite views, and real-time traffic conditions. Google Maps also offers route planning for traveling by foot, car, bike, or public transportation. The service has evolved to include features like Street View, indoor maps, and integration with other Google services, making it a go-to resource for navigation and exploration."
+        },
+        {
+            "appImage": "https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png",
+            "appName": "Google Drive",
+            "appStartDay": "April 24, 2012",
+            "appBio": "Google Drive is a cloud storage service developed by Google. It allows users to store files online, synchronize them across devices, and share them with others. Google Drive integrates with other Google services like Google Docs, Sheets, and Slides, enabling collaborative work in real-time. The service offers free storage with additional capacity available through paid plans. Google Drive has become a key tool for both personal and professional file management and collaboration."
+        },
+        {
+            "appImage": "https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg",
+            "appName": "Twitter",
+            "appStartDay": "March 21, 2006",
+            "appBio": "Twitter is a social networking service where users post and interact with messages known as 'tweets.' It was founded by Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams. Twitter quickly gained popularity as a platform for real-time information sharing, particularly for news, entertainment, and public discussions. Users can follow other accounts to see their tweets on their feed, engage with content through retweets, likes, and replies, and use hashtags to join broader conversations. Twitter has become a key platform for social commentary, marketing, and live updates."
+        }
+    ]
+}
