@@ -1,25 +1,5 @@
 [
   {
-    "popularname": "Google",
-    "popularimage": "https://i.postimg.cc/cH7NSMFy/google-min.png",
-    "popularurl": "https://google.com/"
-  },
-  {
-    "popularname": "Facebook",
-    "popularimage": "https://i.postimg.cc/QxZdDZ6G/facebook.png",
-    "popularurl": "https://www.facebook.com/"
-  },
-  {
-    "popularname": "Youtube",
-    "popularimage": "https://i.postimg.cc/pTnKXC7T/youtube-min.png",
-    "popularurl": "https://www.youtube.com/"
-  },
-  {
-    "popularname": "Instagram",
-    "popularimage": "https://i.postimg.cc/SKqrP6Yz/instragram-min.png",
-    "popularurl": "https://www.instagram.com/?hl=en"
-  },
-  {
     "popularname": "Twitter",
     "popularimage": "https://i.postimg.cc/ydfhb20D/twiter.png",
     "popularurl": "https://twitter.com/"
@@ -38,35 +18,5 @@
     "popularname": "Telegram",
     "popularimage": "https://i.postimg.cc/XqSN4Yfm/telegram.png",
     "popularurl": "https://web.telegram.org/"
-  },
-  {
-    "popularname": "TikTok",
-    "popularimage": "https://i.postimg.cc/T2CNz4Tq/tictok-min.png",
-    "popularurl": "https://www.tiktok.com/"
-  },
-  {
-    "popularname": "Amazon",
-    "popularimage": "https://i.postimg.cc/RVzgkxHY/amazon-min.png",
-    "popularurl": "https://www.amazon.com/"
-  },
-  {
-    "popularname": "Gmail",
-    "popularimage": "https://i.postimg.cc/3Jd2fLLq/gmail-min.png",
-    "popularurl": "https://mail.google.com/mail/"
-  },
-  {
-    "popularname": "Google Maps",
-    "popularimage": "https://i.postimg.cc/QM4fWBV9/map-min.png",
-    "popularurl": "https://www.google.com/maps"
-  },
-  {
-    "popularname": "Google Drive",
-    "popularimage": "https://i.postimg.cc/MTgfCw3r/googledrive-min.png",
-    "popularurl": "https://drive.google.com/drive/"
-  },
-  {
-    "popularname": "Google Earth",
-    "popularimage": "https://i.postimg.cc/RZG6MKbt/googleearth.png",
-    "popularurl": "https://earth.google.com/static/multi-threaded/versions/10.49.0.0/index.html?"
   }
 ]

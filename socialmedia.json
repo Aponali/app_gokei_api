@@ -1,14 +1,6 @@
 [
-    {
-        "socialname": "Facebook",
-        "socialimage": "https://i.postimg.cc/QxZdDZ6G/facebook.png",
-        "socialurl": "https://www.facebook.com/"
-    },
-    {
-        "socialname": "Instagram",
-        "socialimage": "https://i.postimg.cc/SKqrP6Yz/instragram-min.png",
-        "socialurl": "https://www.instagram.com/?hl=en"
-    },
+   
+    
     {
         "socialname": "Twitter",
         "socialimage": "https://i.postimg.cc/ydfhb20D/twiter.png",
@@ -28,60 +20,6 @@
         "socialname": "Telegram",
         "socialimage": "https://i.postimg.cc/XqSN4Yfm/telegram.png",
         "socialurl": "https://web.telegram.org/"
-    },
-    {
-        "socialname": "Gmail",
-        "socialimage": "https://i.postimg.cc/3Jd2fLLq/gmail-min.png",
-        "socialurl": "https://mail.google.com/mail/"
-    },
-    {
-        "socialname": "Skype",
-        "socialimage": "https://i.postimg.cc/13xXsMH4/skyoe.png",
-        "socialurl": "https://www.skype.com/"
-    },
-    {
-        "socialname": "Twitch",
-        "socialimage": "https://i.postimg.cc/CxPFdNCj/thwich-min.png",
-        "socialurl": "https://www.twitch.com/"
-    },
-    {
-        "socialname": "Google Meet",
-        "socialimage": "https://i.postimg.cc/cHGN25MB/googlemeet.png",
-        "socialurl": "https://meet.google.com/"
-    },
-    {
-        "socialname": "Google Contacts",
-        "socialimage": "https://i.postimg.cc/vBZsL6QW/contrach.png",
-        "socialurl": "https://contacts.google.com/"
-    },
-    {
-        "socialname": "Google Classroom",
-        "socialimage": "https://i.postimg.cc/vT8cnmKj/calssroom.png",
-        "socialurl": "https://classroom.google.com/"
-    },
-    {
-        "socialname": "Slack",
-        "socialimage": "https://i.postimg.cc/vH5g1pD5/stack.png",
-        "socialurl": "https://slack.com/"
-    },
-    {
-        "socialname": "Google Chat",
-        "socialimage": "https://i.postimg.cc/d1NL8FKV/googlechat.png",
-        "socialurl": "https://mail.google.com/"
-    },
-    {
-        "socialname": "Snapchat",
-        "socialimage": "https://i.postimg.cc/3N4rHD0g/snapshort.png",
-        "socialurl": "https://web.snapchat.com/"
-    },
-    {
-        "socialname": "Signal",
-        "socialimage": "https://i.postimg.cc/SNRCJZCr/signal-min.jpg",
-        "socialurl": "https://www.signal.org/"
-    },
-    {
-        "socialname": "Whatapp",
-        "socialimage": "https://i.postimg.cc/x1tvscM0/whatsapp-min.png",
-        "socialurl": "https://web.whatsapp.com/"
     }
+
 ]
